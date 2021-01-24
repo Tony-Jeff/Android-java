@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_principal"
+        android:icon="@drawable/icn1"
+        android:title="Menu Novo">
+        <item
+            android:id="@+id/menu_a"
+            android:icon="@drawable/icn1"
+            android:title="sair" />
+
+        <item
+            android:id="@+id/menu_b"
+            android:icon="@drawable/icn2"
+            android:title="cadastrar"/>
+
+        <item
+            android:id="@+id/menu_c"
+            android:icon="@drawable/icn3"
+            android:title="listar"/>
+    </item>
+</menu>

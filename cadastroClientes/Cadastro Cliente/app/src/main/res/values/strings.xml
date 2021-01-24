@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CadastroCliente</string>
+    <string name="nome_cliente">Nome Cliente</string>
+    <string name="add_cliente">add cliente</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="site">Site</string>
+    <string name="e_mail">E-mail</string>
+</resources>

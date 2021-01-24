@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="textview_display1">Diplay1</string>
+    <string name="textview_display2">Diplay2</string>
+    <string name="textview_display3">Diplay3</string>
+    <string name="button_c">limpar</string>
+    <string name="button_apagar">Apagar</string>
+    <string name="button_igual">=</string>
+    <string name="button_ponto">.</string>
+    <string name="button_soma">+</string>
+    <string name="button_subt">-</string>
+    <string name="button_mult">x</string>
+    <string name="button_div">/</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+</resources>

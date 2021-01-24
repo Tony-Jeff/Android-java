@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExemplooClassesActivities</string>
+    <string name="txtNome">Nome do Filme</string>
+    <string name="hintDescNome" />
+    <string name="txtCategorias">Categoria</string>
+    <string name="txtDuracao">Duração em Minutos</string>
+    <string name="txtSinopse">Sinopse</string>
+    <string name="hintCategoria" />
+    <string name="hintDuracao" />
+    <string name="hintSinopse" />
+</resources>
